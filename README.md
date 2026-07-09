@@ -28,6 +28,10 @@ OCT Image → BLIP Image Encoder → MLP Projector → Llama-3.2-3B-Instruct →
 
 ## Results
 
+**Loss**
+
+<img width="576" height="199" alt="fig 5" src="https://github.com/user-attachments/assets/b5a185ff-cfb8-4c41-828c-495179c6b864" />
+
 **Recall**
 
 <img width="898" height="322" alt="recall" src="https://github.com/user-attachments/assets/d7261e82-c7cc-47a4-aee4-7fe331ffc11a" />
