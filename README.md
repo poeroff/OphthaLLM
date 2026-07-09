@@ -27,7 +27,7 @@ OCT Image → BLIP Image Encoder → MLP Projector → Llama-3.2-3B-Instruct →
 ---
 
 ## Results
-**우리가 만든 DHBP-GloRIA 모델은 다른 모델보다 성능 향상을 입증해온다.**
+**우리가 만든 DHBP-GloRIA,DHBP-ITM 모델은 다른 모델보다 성능 향상을 입증해온다.**
 
 **Loss**
 
