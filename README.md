@@ -1,6 +1,6 @@
 https://github.com/user-attachments/assets/079565db-86ee-4535-a6de-82a4b9d48a9c
 
-<img width="602" height="494" alt="fig 8" src="https://github.com/user-attachments/assets/4d953a7b-baed-4be3-9421-5534fe0d13ce" />OCT 안저 영상 기반 망막 질환 진단 및 리포트 생성을 위한 멀티모달 LLM
+OCT 안저 영상 기반 망막 질환 진단 및 리포트 생성을 위한 멀티모달 LLM
 
 Overview
 
@@ -18,9 +18,12 @@ Training
   STAGE=1 python OCT_LLM_Train_GLoRIA_MLP.py  # Stage 1 이어서
   python OCT_LLM_Train_GLoRIA_MLP.py          # Stage 2 자동 (stage1/best.pt 있으면)
   STAGE=2 python OCT_LLM_Train_GLoRIA_MLP.py  # Stage 2 이어서 (stage2/best.pt 있으면)
-
-
-  <img width="602" height="494" alt="fig 8" src="https://github.com/user-attachments/assets/3e3ab267-6983-4bc8-94f2-8a420c7baaec" />
+*Recall
+<img width="898" height="322" alt="image" src="https://github.com/user-attachments/assets/d7261e82-c7cc-47a4-aee4-7fe331ffc11a" />
+*Captioning
+<img width="602" height="494" alt="fig 8" src="https://github.com/user-attachments/assets/3e3ab267-6983-4bc8-94f2-8a420c7baaec" />
+*Disease Classification
+<img width="897" height="523" alt="image" src="https://github.com/user-attachments/assets/a8d57df5-ff99-488a-9db3-0bebaf6acc8e" />
 
 
 
